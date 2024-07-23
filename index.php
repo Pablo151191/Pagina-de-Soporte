@@ -13,5 +13,6 @@
     </div>
 </body>
 
+<?php require_once "./body_cards.php" ?>
 
 <?php require_once "./parte_Inferior.php" ?>
