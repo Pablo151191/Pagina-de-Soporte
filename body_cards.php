@@ -11,26 +11,26 @@
 ?>
 <div class="flex-container">
     <div class="flex-slide home">
-        <div class="flex-title flex-title-home">Home</div>
-        <div class="flex-about flex-about-home"><p>Click here to navigate to the home section of the website</p></div>
+        <div class="flex-title flex-title-home">Inicio</div>
+        <div class="flex-about flex-about-home"><p>Haga clic aquí para navegar a la sección de inicio del sitio web.</p></div>
     </div>
     <div class="flex-slide about">
-        <div class="flex-title">About</div>
-        <div class="flex-about"><p>Click here to navigate to the About section of the website</p></div>
+        <div class="flex-title">Acerca de</div>
+        <div class="flex-about"><p>Haga clic aquí para navegar a la sección Acerca de del sitio web</p></div>
     </div>
     <div class="flex-slide work">
-        <div class="flex-title">Work</div>
+        <div class="flex-title">Trabajos</div>
         <div class="flex-about">
-            <p>Listing relevant snippets of work:</p>
+            <p>Listado de fragmentos de trabajo relevantes:</p>
             <ul>
-                <li>First piece of work</li>
-                <li>Second piece of work</li>
-                <li>Third piece of work</li>
+                <li>Instalación de Sistemas operativos</li>
+                <li>Mantenimiento preventivo y correctivo</li>
+                <li>Cambio de partes de hardware</li>
             </ul>
         </div>
     </div>
     <div class="flex-slide contact">
-        <div class="flex-title">Contact</div>
+        <div class="flex-title">Contacto</div>
         <div class="flex-about">
             <p>Use the contact form below</p>
             <form class="contact-form" method="post" action="contact.php">
