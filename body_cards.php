@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Flex Card Hover Slider</title>
+    <title>Pagina de Soporte</title>
     <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
