@@ -32,11 +32,11 @@
     <div class="flex-slide contact">
         <div class="flex-title">Contacto</div>
         <div class="flex-about">
-            <p>Use the contact form below</p>
+            <p>Utilice el siguiente formulario de contacto</p>
             <form class="contact-form" method="post" action="contact.php">
-                <p>Email <input type="text" name="email"></p>
-                <p>Comment <textarea name="comment" rows="5"></textarea></p>
-                <p><input type="submit" value="Send Message"></p>
+                <p>Correo <input type="text" name="email"></p>
+                <p>Comentarios <textarea name="comment" rows="5"></textarea></p>
+                <p><input type="submit" value="Enviar Mensaje"></p>
             </form>
         </div>
     </div>

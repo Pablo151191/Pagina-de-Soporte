@@ -10,7 +10,7 @@ $(".flex-slide").each(function(){
     }, function(){
         $(this).find('.flex-title').css({
             transform: 'rotate(90deg)',
-            top: '15%'
+            top: '20%'
         });
         $(this).find('.flex-about').css({
             opacity: '0'
