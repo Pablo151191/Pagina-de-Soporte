@@ -32,8 +32,7 @@
     <div class="flex-slide contact">
         <div class="flex-title">Contacto</div>
         <div class="flex-about">
-            <p>Contactenos via:
-                 
+            <p>Contactenos via:              
                 Whatsapp 7040-8239
                 Facebook Soporte Tecnico en Computación
                 Email pablojimenezb24@gmail.com</p>        
