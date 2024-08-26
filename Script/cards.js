@@ -1,3 +1,4 @@
+
 $(".flex-slide").each(function(){
     $(this).hover(function(){
         $(this).find('.flex-title').css({

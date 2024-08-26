@@ -11,8 +11,11 @@
         <img src="./images/portada.jpg" alt="">
 
     </div>
+    
 </body>
+<div id="accordion-container" class="main-accordion-container"></div>
+    
 
-<?php require_once "./body_cards.php" ?>
+
 
 <?php require_once "./parte_Inferior.php" ?>
