@@ -104,6 +104,42 @@ menu {
     width: 1140px;
 }
 
+footer{
+  background: black;
+  color: white;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 25px;
+}
+
+.footer-izquierda{
+  /* background: #ebdfdf; */
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.footer-derecha{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding-right:30px;
+  padding-bottom: 25px;
+}
+.footer-derecha p{
+  width: 25%;
+  padding-top: 5px;
+  text-align: justify;
+}
 
 /*TRABAJAMOS RESPONSIVE*/
 
@@ -275,9 +311,9 @@ body {
 
 .home {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/lake-macquarie-71208_1920.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://scontent.fsyq2-1.fna.fbcdn.net/v/t39.30808-6/409116913_198552946658571_5353724973730886369_n.jpg?stp=dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iscOIxmmEvEQ7kNvgErUNot&_nc_ht=scontent.fsyq2-1.fna&oh=00_AYDC0PhwF57FBCm44wficeaAGcnNvKshTRZNNOOQ0G0N_w&oe=66D191CB);
   background-size: cover;
-  background-position: center center;
+  background-position: center ;
   background-attachment: fixed;
 }
 @media screen and (min-width: 1025px) {
@@ -346,7 +382,7 @@ body {
   }
 }
 .about {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/beach-2089959_1280.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://scontent.fsyq2-1.fna.fbcdn.net/v/t39.30808-6/362681027_23886872104259721_7093138714784240953_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=FmI2DGFh0XEQ7kNvgHLyGDx&_nc_ht=scontent.fsyq2-1.fna&oh=00_AYAzlKhjxTRpbfEHEELn1vuQ6Lt_GhyLw4tQDh7sAp4ELA&oe=66D1B7EE);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -372,7 +408,7 @@ textarea {
 }
 
 .work {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/forest-208517_1280.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.google.com/url?https://elinge.co/wp-content/uplohttps://www.google.com/url?sa=i&url=https%3A%2F%2Ftrumansac.com%2Fen-que-que-consiste-el-mantenimiento-de-computadoras%2F&psig=AOvVaw1Y9r0Y2ydXpBR7z8hCuHJn&ust=1724722004343000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiYk6PAkYgDFQAAAAAdAAAAABAEads/2023/08/mante…to-preventivo-de-computadores-ID-01-1024x512.webpsa=i&url=https%https://elinge.co/wp-content/uploads/2023/08/mante…to-preventivo-de-computadores-ID-01-1024x512.webp3A%2F%2Felinge.co%2Fmantenimiento-preventivo-computadoras-pc-software%2F&psig=AOvVaw2Et3hjow7HkQpAhkTovI6i&ust=1724721704989000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjGwoy_kYgDFQAAAAAdAAAAABAE);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;

@@ -12,11 +12,11 @@
 <div class="flex-container">
     <div class="flex-slide home">
         <div class="flex-title flex-title-home">Inicio</div>
-        <div class="flex-about flex-about-home"><p>Haga clic aquí para navegar a la sección de inicio del sitio web.</p></div>
+        <div class="flex-about flex-about-home"><p>Pagina de Soporte Técnico creada para ayudarle a mantener su equipo en perfectas condiciones .</p></div>
     </div>
     <div class="flex-slide about">
         <div class="flex-title">Acerca de</div>
-        <div class="flex-about"><p>Haga clic aquí para navegar a la sección Acerca de del sitio web</p></div>
+        <div class="flex-about"><p>Este sitio  </p></div>
     </div>
     <div class="flex-slide work">
         <div class="flex-title">Trabajos</div>
@@ -32,12 +32,11 @@
     <div class="flex-slide contact">
         <div class="flex-title">Contacto</div>
         <div class="flex-about">
-            <p>Utilice el siguiente formulario de contacto</p>
-            <form class="contact-form" method="post" action="contact.php">
-                <p>Correo <input type="text" name="email"></p>
-                <p>Comentarios <textarea name="comment" rows="5"></textarea></p>
-                <p><input type="submit" value="Enviar Mensaje"></p>
-            </form>
+            <p>Contactenos via:
+                 
+                Whatsapp 7040-8239
+                Facebook Soporte Tecnico en Computación
+                Email pablojimenezb24@gmail.com</p>        
         </div>
     </div>
 </div>
