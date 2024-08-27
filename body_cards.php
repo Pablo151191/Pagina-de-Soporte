@@ -16,7 +16,7 @@
     </div>
     <div class="flex-slide about">
         <div class="flex-title">Acerca de</div>
-        <div class="flex-about"><p>Este sitio  </p></div>
+        <div class="flex-about"><p>Este sitio te dara informacióm acerca de lo que ofrece la página   </p></div>
     </div>
     <div class="flex-slide work">
         <div class="flex-title">Trabajos</div>
