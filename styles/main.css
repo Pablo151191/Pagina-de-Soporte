@@ -41,7 +41,7 @@ menu {
 }
 
 .menu-derecha {
-  width: 25%; /* Cambia el ancho según tu necesidad */
+  width: 25%; 
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -67,22 +67,22 @@ menu {
 .banner-container {
   /*background-color: #007acc; /* Color de fondo del banner */
   color: black;
-  border-radius: 8px; /* Esquinas redondeadas opcionales */
+  border-radius: 8px; 
   padding: 20px;
   text-align: center;
-  max-width: 600px; /* Ancho máximo del banner */
-  width: 100%; /* Asegura que el banner no sea más ancho que su contenedor */
-  margin: auto; /* Centra el banner horizontalmente */
+  max-width: 600px; 
+  width: 100%; 
+  margin: auto; 
 }
 
 .banner-container h1 {
   margin: 0;
-  font-size: 24px; /* Tamaño del título */
+  font-size: 24px; 
 }
 
 .banner-container .sub-text {
   margin: 10px 0;
-  font-size: 16px; /* Tamaño del texto secundario */
+  font-size: 16px; 
 }
 
 .enlaces-menu-derecha {
@@ -126,7 +126,7 @@ menu {
 }
 
 .main-img {
-    background-color: wheat;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -145,7 +145,7 @@ menu {
 }
 
 .accordion-item {
-  background-color: bisque;
+  background-color: rgb(91, 153, 194);
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -163,7 +163,7 @@ menu {
 .accordion-title {
   width: 100%;
   height: auto;
-  background-color: rgb(215, 245, 245);
+  background-color:rgb(54, 194, 206);
   display: flex;
   flex-direction: column;
   align-items: center;

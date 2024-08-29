@@ -20,6 +20,7 @@
                 <h1>Soporte Técnico JYK</h1>
                 <p class="sub-text">Aquí puedes encontrar ayuda y recursos para tu soporte.</p>
             </div>
+            <div class ="menu-container">
         <div class="menu-derecha">
             <a class="enlaces-menu-derecha" href="https://maps.app.goo.gl/CK7bKQkqqwTsRg9e8"><img src="./images/mapa.png" style="widh: 40px; height: 40px;"></a>
             <a class="enlaces-menu-derecha" href="https://wa.me/50670408239"> <img src="./images/whatsapp-fill.svg" style="widh: 40px; height: 40px;"></a>
@@ -31,7 +32,7 @@
             <span></span>
         </div>
     </div>
-    
+    </div>
 </menu>
 
 </html>

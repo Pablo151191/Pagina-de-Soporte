@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php
-// Puedes agregar cualquier lógica PHP aquí si es necesario
+
 ?>
 <div class="flex-container">
     <div class="flex-slide home">
